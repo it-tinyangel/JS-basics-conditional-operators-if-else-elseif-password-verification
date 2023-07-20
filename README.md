@@ -1,6 +1,6 @@
 # Module 2. JS Programming Basics. Lesson 2. Task 2
 
-№ Password Verification
+# Password Verification
 
 The user is prompted to enter a login:
 
